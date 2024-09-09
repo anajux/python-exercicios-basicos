@@ -22,7 +22,7 @@ Os exercícios estão organizados em pastas, cada uma abordando um tópico espec
     
 📚 Como Usar
 Clone o repositório para sua máquina local:
-git clone https://github.com/seu-usuario/exercicios-resolvidos.git
+git clone https://github.com/anajux/python-exercicios-basicos.git
 
 Navegue até a pasta do tópico que deseja praticar.
 Execute os scripts Python para ver as soluções dos exercícios.
